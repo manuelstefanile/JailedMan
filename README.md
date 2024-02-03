@@ -10,7 +10,6 @@ Il gioco prevede di indovinare la parola appesa sul muro. Ogni lettera indovinat
 ![indovina_una_lettera](https://github.com/manuelstefanile/JailedMan/assets/114852292/10460e1a-6ac9-4a4f-9bd3-b5ba190741b7)
 
 Se si sbaglia lettera per sei volte, si perde.
-
 Il gioco prevede che alla seconda vita persa appaia una torcia.
 
 ![torcia_spenta](https://github.com/manuelstefanile/JailedMan/assets/114852292/e89da886-bf67-46aa-b99e-8b068fa8ca7b)
