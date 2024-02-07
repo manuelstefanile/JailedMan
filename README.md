@@ -1,6 +1,6 @@
 # JailedMan
 
-Il gioco è statto sviluppato in Unity per l'ambiente VR. Il gioco consiste nell'indovinare la parola presente sul muro, scegliendo una lettera alla volta.
+Il gioco è stato sviluppato in Unity per l'ambiente VR. Il gioco consiste nell'indovinare la parola presente sul muro, scegliendo una lettera alla volta.
 Il gioco è simile all'impiccato ma in un ambiente VR. Il gioco ha lo scopo di far apprendere quante più parole possibili all'utente.
 
 ![general](https://github.com/manuelstefanile/JailedMan/assets/114852292/82655522-0bb7-4d91-82e2-199f5d686b61)
